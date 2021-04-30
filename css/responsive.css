@@ -1,0 +1,342 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        background: #444;
+    }
+    .navbar-light .navbar-toggler {
+        border: 2px solid #ffffff;
+    }
+    .slick-dots li {
+        margin-bottom: 66px;
+    }
+    .banner-text {
+        padding-top: 132px;
+        padding-bottom: 66px;
+    }
+    .text-slider {
+        padding: 0 70px;
+    }
+    .banner-text h2::after {
+        top: 107px;
+    }
+    .banner-text p {
+        padding: 58px 9px 50px 9px;
+    }
+    .our-story-text h2 {
+        text-align: center;
+        padding-top: 26px;
+    }
+    .our-story-text p {
+        padding-bottom: 8px;
+    }
+    #our-story {
+        padding: 45px 0px;
+    }
+    .our-story-text a {
+        width: 100%;
+        text-align: center;
+    }
+    #video-part {
+        padding: 70px 0;
+    }
+    #expetise-part {
+        padding: 50px 0;
+    }
+    .div-padding {
+        padding: 45px 0 0 0;
+    }
+    #team-part {
+        padding: 55px 0;
+    }
+    .team-bottom-text p {
+        padding-top: 42px;
+    }
+    #work-part {
+        padding: 55px 0;
+    }
+    .work-button a {
+        width: 100%;
+        margin-top: 35px;
+    }
+    .feedback-text-slider p {
+        padding: 0 2px 44px 2px;
+    }
+    #feedback-part {
+        padding: 50px 0;
+    }
+    .feed-all {
+        width: 300px;
+    }
+    .feed-left-arrow {
+        display: none !important; 
+    }
+    .feed-right-arrow {
+        display: none !important; 
+    }
+    #logos {
+        padding: 50px 0;
+    }
+    .left-logo-text a {
+        width: 100%;
+        text-align: center;
+    }
+    .right-logo-text h3 {
+        text-align: center;
+        padding-top: 35px;
+    }
+    .left-logo-text h3 {
+        text-align: center;
+    }
+    #footer {
+        padding: 50px 0;
+    }
+    .left-side-footer img {
+        padding-bottom: 16px;
+    }
+    .form-inline {
+        justify-content: center;
+    }
+    .full-footer {
+        text-align: center;
+    }
+    .left-side-footer p {
+        padding: 0 25px;
+    }
+    .middle-side-footer p {
+        padding-right: 0;
+    }
+    .footer-bottom-left ul {
+        padding: 30px 0 0 0;
+        text-align: center;
+    }
+    .footer-bottom-right p {
+        padding: 25px 0 0 0;
+        text-align: center;
+    }
+    .middle-side-footer h4, .right-side-footer h4 {
+        padding: 28px 0 10px 0;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        background: #444;
+    }
+    .navbar-light .navbar-toggler {
+        border: 2px solid #ffffff;
+    }
+    .slick-dots li {
+        margin-bottom: 66px;
+    }
+    .banner-text {
+        padding-top: 132px;
+        padding-bottom: 66px;
+    }
+    .text-slider {
+        padding: 0 70px;
+    }
+    .banner-text h2::after {
+        top: 107px;
+    }
+    .our-story-text h2 {
+        text-align: center;
+        padding-top: 26px;
+    }
+    .banner-text p {
+        padding: 58px 9px 50px 9px;
+    }
+    .our-story-text p {
+        padding-bottom: 8px;
+    }
+    #our-story {
+        padding: 45px 0px;
+    }
+    .our-story-text a {
+        width: 100%;
+        text-align: center;
+    }
+    #video-part {
+        padding: 80px 0;
+    }
+    #expetise-part {
+        padding: 50px 0;
+    }
+    .div-padding {
+        padding: 45px 0 0 0;
+    }
+    #team-part {
+        padding: 55px 0;
+    }
+    .team-bottom-text p {
+        padding-top: 42px;
+    }
+    #work-part {
+        padding: 55px 0;
+    }
+    .work-button a {
+        width: 100%;
+        margin-top: 35px;
+    }
+    #feedback-part {
+        padding: 50px 0;
+    }
+    .feed-left-arrow {
+        top: 87%;
+        left: 13%;
+    }
+    .feed-right-arrow {
+        top: 87%;
+        right: 13%; 
+    }
+    .feed-all {
+        width: 300px;
+    }
+    #logos {
+        padding: 50px 0;
+    }
+    .left-logo-text a {
+        width: 100%;
+        text-align: center;
+    }
+    .right-logo-text h3 {
+        text-align: center;
+        padding-top: 35px;
+    }
+    .left-logo-text h3 {
+        text-align: center;
+    }
+    #footer {
+        padding: 50px 0;
+    }
+    .left-side-footer img {
+        padding-bottom: 16px;
+    }
+    .form-inline {
+        justify-content: center;
+    }
+    .full-footer {
+        text-align: center;
+    }
+    .left-side-footer p {
+        padding: 0 25px;
+    }
+    .middle-side-footer p {
+        padding-right: 0;
+    }
+    .footer-bottom-left ul {
+        padding: 30px 0 0 0;
+        text-align: center;
+    }
+    .footer-bottom-right p {
+        padding: 25px 0 0 0;
+        text-align: center;
+    }
+    .middle-side-footer h4, .right-side-footer h4 {
+        padding: 28px 0 10px 0;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        background: #444;
+    }
+    .navbar-light .navbar-toggler {
+        border: 2px solid #ffffff;
+    }
+    .slick-dots li {
+        margin-bottom: 66px;
+    }
+    .banner-text {
+        padding-top: 132px;
+        padding-bottom: 66px;
+    }
+    .text-slider {
+        padding: 0 74px;
+    }
+    .our-story-text h2 {
+        text-align: center;
+        padding-top: 26px;
+    }
+    .our-story-text p {
+        padding-bottom: 10px;
+    }
+    .our-story-text a {
+        width: 100%;
+        text-align: center;
+    }
+    #video-part {
+        padding: 110px 0;
+    }
+    .div-padding {
+        padding: 55px 0 0 0;
+    }
+    .team-bottom-text a {
+        display: inline-block;
+        width: 100%;
+    }
+    .work-button a {
+        width: 100%;
+    }
+    .feed-left-arrow {
+        top: 81%;
+        left: 12%;
+    }
+    .feed-right-arrow {
+        top: 81%;
+        right: 11%; 
+    }
+    #logos {
+        padding: 50px 0;
+    }
+    .left-logo-text a {
+        width: 100%;
+        text-align: center;
+    }
+    .right-logo-text h3 {
+        text-align: center;
+        padding-top: 35px;
+    }
+    .left-logo-text h3 {
+        text-align: center;
+    }
+    .full-footer {
+        text-align: center;
+    }
+    .left-side-footer p {
+        padding-right: 0;
+    }
+    .middle-side-footer p {
+        padding-right: 0;
+    }
+    .btn-custom-footer {
+        padding: 8px 109px;
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+    }
+    .box-padding {
+        padding-bottom: 5px;
+    }
+    .soc-icons {
+        padding: 14px 0 0 0;
+    }
+    .soc-icons li {
+        margin-top: 11px;   
+    }
+    .footer-bottom-right p {
+        padding: 40px 0 0 0;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
